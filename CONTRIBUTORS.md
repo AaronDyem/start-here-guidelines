@@ -13,3 +13,4 @@
   * [Longji Paul Benshak](https://github.com/Leeyung1)
 * [SOLOMON Drambi](http://github.com/SUNDISKI)
 * [Elijah Simon](http://github.com/Eli4545)
+* [Aaron Dyem](http://github.com/AaronDyem)
